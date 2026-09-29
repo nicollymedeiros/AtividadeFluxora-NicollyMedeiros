@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "codigo": "MP-001",
+    "nome": "Chapa de aço",
+    "categoria": "Metais",
+    "unidade": "kg",
+    "quantidade": 150,
+    "minimo": 200
+  },
+  {
+    "id": 2,
+    "codigo": "MP-002",
+    "nome": "Bobina de alumínio",
+    "categoria": "Metais",
+    "unidade": "kg",
+    "quantidade": 320,
+    "minimo": 250
+  },
+  {
+    "id": 3,
+    "codigo": "MP-003",
+    "nome": "Barra de cobre",
+    "categoria": "Metais",
+    "unidade": "kg",
+    "quantidade": 0,
+    "minimo": 100
+  },
+  {
+    "id": 4,
+    "codigo": "MP-004",
+    "nome": "Polietileno",
+    "categoria": "Plásticos",
+    "unidade": "kg",
+    "quantidade": 480,
+    "minimo": 400
+  },
+  {
+    "id": 5,
+    "codigo": "MP-005",
+    "nome": "Polipropileno",
+    "categoria": "Plásticos",
+    "unidade": "kg",
+    "quantidade": 180,
+    "minimo": 250
+  },
+  {
+    "id": 6,
+    "codigo": "MP-006",
+    "nome": "PVC granulado",
+    "categoria": "Plásticos",
+    "unidade": "kg",
+    "quantidade": 0,
+    "minimo": 150
+  },
+  {
+    "id": 7,
+    "codigo": "MP-007",
+    "nome": "Resina epóxi",
+    "categoria": "Polímeros",
+    "unidade": "kg",
+    "quantidade": 210,
+    "minimo": 180
+  },
+  {
+    "id": 8,
+    "codigo": "MP-008",
+    "nome": "Borracha sintética",
+    "categoria": "Polímeros",
+    "unidade": "kg",
+    "quantidade": 90,
+    "minimo": 200
+  },
+  {
+    "id": 9,
+    "codigo": "MP-009",
+    "nome": "Poliuretano",
+    "categoria": "Polímeros",
+    "unidade": "kg",
+    "quantidade": 0,
+    "minimo": 120
+  },
+  {
+    "id": 10,
+    "codigo": "MP-010",
+    "nome": "Solvente industrial",
+    "categoria": "Químicos",
+    "unidade": "L",
+    "quantidade": 650,
+    "minimo": 500
+  },
+  {
+    "id": 11,
+    "codigo": "MP-011",
+    "nome": "Catalisador",
+    "categoria": "Químicos",
+    "unidade": "L",
+    "quantidade": 120,
+    "minimo": 200
+  },
+  {
+    "id": 12,
+    "codigo": "MP-012",
+    "nome": "Aditivo químico",
+    "categoria": "Químicos",
+    "unidade": "L",
+    "quantidade": 0,
+    "minimo": 100
+  }
+]
